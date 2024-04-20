@@ -265,10 +265,10 @@ export async function updateCommunityInfo(
     return updatedCommunity;
   } catch (error) {
     // Handle any errors
-    console.error("Error updating community information:", error);
+    console.error("Error updating community information: Please Check Again", error);
     throw error;
   }
-}
+}  
 
 export async function deleteCommunity(communityId: string) {
   try {
