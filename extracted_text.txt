@@ -1,0 +1,993 @@
+Rationalised 2023-24
+First Edition
+February 2006  Phalguna 1927
+Reprinted
+January 2007, October 2007,
+March 2009, December 2009,
+January 2011, January 2012,
+December 2012, November 2013,
+December 2014, December 2015,
+December 2016, October 2017,
+December 2018, August 2019,
+August 2021 and November 2021
+Revised Edition
+November 2022 Agrahayana 1944
+PD 300T BS
+© National Council of Educational
+Research and Training, 2006,
+2022
+` 35.00ALL RIGHTS RESERVED
+/boxshadowdwnNo part of this publication may be reproduced, stored in a retrieval system
+or transmitted, in any form or by any means, electronic, mechanical,
+photocopying, recording or otherwise without the prior permission of the
+publisher.
+/boxshadowdwnThis book is sold subject to the condition that it shall not, by way of trade,
+be lent,  re-sold, hired out or otherwise disposed of without the publisher’s
+consent, in any form of binding or cover other than that in which it is published.
+/boxshadowdwnThe correct price of this publication is the price printed on this page, Any
+revised price indicated by a rubber stamp or by a sticker or by any other means
+is incorrect and should be unacceptable.
+OFFICES OF THE PUBLICA TION
+DIVISION, NCERT
+NCERT Campus
+Sri Aurobindo Marg
+New  Delhi 110 016 Phone :  011-26562708
+108, 100 Feet Road
+Hosdakere Halli Extension
+Banashankari III Stage
+Bengaluru 560 085 Phone : 080-26725740
+Navjivan Trust Building
+P.O. Navjivan
+Ahmedabad 380 014 Phone :  079-27541446
+CWC Campus
+Opp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114 Phone :  033-25530454
+CWC Complex
+Maligaon
+Guwahati 781 021 Phone :  0361-2674869
+Publication Team
+Head, Publication :Anup Kumar Rajput
+Division
+Chief Production :Arun Chitkara
+Officer
+Chief Business :Vipin Dewan
+Manager
+Chief Editor (In charge) :Bijnan Sutar
+Editor :Vijayam
+Sankaranarayanan
+Production Assistant :Om Prakash
+Illustrations
+Bhushan Shaligram
+Cover
+Shweta RaoPrinted on 80 GSM paper with NCER T
+watermark
+Published at the Publication Division
+by the Secretary, National Council
+of Educational Research and Training,
+Sri Aurobindo Marg, New Delhi -
+110 016 and printed at Kunal Offset,
+Plot No. 364, Road No. 38, G.I.D.C.
+Odhav, Ahmedabad - 382 415
+(Gujarat)ISBN  81-7450-484-20648 – A P ACT WITH THE SUN
+Textbook for Class VI
+Rationalised 2023-24
+FOREWORD
+THE National Curriculum Framework (NCF), 2005, recommends that
+children's life at school must be linked to their life outside the school.
+This principle marks a departure from the legacy of bookish learn-
+ing which continues to shape our system and causes a gap between
+the school, home and community. The syllabi and textbooks devel-
+oped on the basis of NCF signify an attempt to implement this basic
+idea. They also attempt to discourage rote learning and the mainte-
+nance of sharp boundaries between dif ferent subject ar eas. W e hope
+these measures will take us significantly further in the direction of a
+child-centred system of education outlined in the National Policy of
+Education (1986).
+The success of this ef fort depends on the steps that school
+principals and teachers will take to encourage childr en to r eflect on
+their own lear ning and to pursue imaginative activities and questions.
+We must r ecognise that, given space, time and fr eedom, childr en
+generate new knowledge by engaging with the infor mation passed
+on to them by adults.  Treating the pr escribed textbook as the sole
+basis of examination is one of the key r easons why other r esour ces
+and sites of lear ning ar e ignor ed.  Inculcating cr eativity and initiative
+is possible if we per ceive and tr eat childr en as participants in lear ning,
+not as r eceivers of a fixed body of knowledge.
+These aims imply considerable change in school r outines and
+mode of functioning. Flexibility in the daily time-table is as necessary
+as rigour in implementing the annual calendar so that the r equir ed
+number of teaching days ar e actually devoted to teaching. The
+methods used for teaching and evaluation will also deter mine how
+effective this supplementary r eader pr oves for making childr en’s
+life at school a happy experience, rather than a sour ce of str ess or
+boredom. Syllabus designers have tried to addr ess the pr oblem of
+curricular bur den by r estructuring and r eorienting knowledge at
+different stages with greater consideration for child psychology and
+the time available for teaching. The book attempts to enhance this
+endeavour by giving higher priority and space to opportunities for
+contemplation and wondering, discussion in small gr oups, and
+activities r equiring hands-on experience.
+Rationalised 2023-24
+iv
+The National Council of Educational Resear ch and T raining
+(NCER T) appr eciates the har d work done by the textbook development
+committee r esponsible for this book. W e wish to thank the Chairperson
+of the advisory group in languages, Professor Namwar  Singh  and
+the Chief Advisor for this book, Professor R. Amritavalli for guiding
+the work of this committee. Several teachers contributed to the
+development of this book; we are grateful to their principals for
+making this possible. W e are indebted to the institutions and
+organisations which have generously permitted us to draw upon
+their r esour ces, materials and personnel. W e are especially grateful
+to the members of the National Monitoring Committee, appointed
+by the Department of Secondary and Higher Education, Ministry of
+Human Resource Development under the Chairpersonship of
+Professor Mrinal Miri and Pr ofessor G.P . Deshpande for their valuable
+time and contribution. As an organisation committed to systemic
+reform and continuous improvement in the quality of its products,
+NCER T welcomes comments and suggestions which will enable us
+to undertake further revision and refinements.
+Director
+New Delhi National Council of Educational
+20 December 2005 Resear ch and T raining
+Rationalised 2023-24
+RATIONALISATION  OF CONTENT  IN THE
+TEXTBOOKS
+In view of the COVID-19 pandemic, it is imperative to reduce
+content load on students. The National Education Policy 2020,
+also emphasises reducing the content load and providing
+opportunities for experiential learning with creative mindset. In
+this backgr ound, the NCER T has undertaken the exer cise to
+rationalise the textbooks across all classes. Learning Outcomes
+already developed by the NCER T acr oss classes have been taken
+into consideration in this exercise.
+Contents of the textbooks have been rationalised in view
+of the following:
+•Content based on genres of literature in the textbooks
+and supplementary readers at different stages of school
+education
+•Content that is meant for achieving Learning Outcomes
+for developing language proficiency and is accessible at
+different stages
+•For reducing the curriculum load and examination stress
+in view of the previling condition of the Pandemic
+•Content, which is easily accessible to students without
+much interventions from teachers and can be learned by
+childr en thr ough self-lear ning or peer -learning
+•Content, which is irrelevant in the present context
+This present edition, is a reformatted version after
+carrying out the changes given above.
+Rationalised 2023-24
+Rationalised 2023-24
+A NOTE FOR THE TEACHER
+THE main objective of this supplementary reader is to promote among
+learners the habit of r eading independently with inter est, under -
+standing and enjoyment. It seeks to enable them to read indepen-
+dently in the sense that they would not expect the book to be taken
+up page by page in the classroom. They would rather read it on
+their own and later share and confirm their responses and appre-
+ciation with the teacher and the peer group through discussions,
+questions and, wherever possible, even role-play.
+The book contains ten pieces. Each piece has been divided into
+two or thr ee manageable parts, each part briefly summarised in
+point for m without r evealing crucial tur ns and twists of the storyline,
+thus sustaining r eaders’ curiosity and inter est. This for mat is being
+tried to make compr ehension easier and concentration keener . Each
+piece is followed by a set of questions as aids to understanding
+and, at places, an idea for discussion. The questions may be
+attempted orally befor e well-for mulated answers ar e put down on
+paper . Discussion on r elated topics should be encouraged so that
+learners get an opportunity to go beyond the book and feel inspir ed
+to reach hitherto undiscover ed vistas of knowledge and pleasur e.
+The stories, amply illustrated, deal with themes of cooperation,
+compassion, r espect for elders, sound decision-making, the magic
+of music, health, adventur e, peace and social har mony. It is hoped
+that lear ners will find the book enjoyable and r ewarding.
+Rationalised 2023-24
+Rationalised 2023-24
+TEXTBOOK  DEVELOPMENT
+COMMITTEE
+CHAIRPERSON , ADVISORY  GROUP IN LANGUAGES
+Professor Namwar Singh, formerly Chairman, School of Languages,
+Jawaharlal Nehru University, New Delhi
+CHIEF ADVISOR
+R. Amritavalli, Professor , English and For eign Languages University
+(EFLU), Hyderabad
+CHIEF COORDINATOR
+Ram Janma Sharma, Former  Head , Department of Education
+in Languages, NCER T, New Delhi
+MEMBERS
+Amita Kochar , PGT (English), Chiranjeev Bharati School, Gur gaon
+Parminder Dutta, Principal,  Kendriya Vidyalaya, Airports Authority
+of India, New Delhi
+R. Meganathan, Assistant Pr ofessor , Department of Education
+in Languages, NCER T, New Delhi
+Shalini Advani, Formerly Principal,  British School, New Delhi
+MEMBER -COORDINATOR
+Nasiruddin Khan, Former Reader in English,  Department of
+Education in Languages, NCER T, New Delhi
+Rationalised 2023-24
+ACKNOWLEDGEMENTS
+THE National Council of Educational Resear ch and T raining is
+grateful to Pr ofessor M.L. Tickoo, for merly of the Central Institute
+of English and For eign Language s, Hyderabad, and  the Regional
+Language Centr e, Singapor e, for going thr ough the manuscript
+and making valuable suggestions.
+NCER T would like to thank Orient Longman Private Limited,
+New Delhi for per mission to r eproduce the following pieces in this
+book: ‘What Happened to the Reptiles’ fr om Gul Mohar – Reader 7
+and ‘The Old-Clock Shop’ fr om Gul Mohar – Practice Book 6.
+Special thanks ar e also due to the Publication Department,
+NCER T, for their support. NCER T gratefully acknowledges the
+contributions made by Bharati Guleria, Copy Editor , and V ijyanti
+and Uttam Kumar , DTP Operators .
+Rationalised 2023-24
+Foreword ..... iii
+Rationalisation of
+Content in the Textbooks ..... v
+A Note for the Teacher .....  vii
+1.A Tale of Two Birds  ..... 1
+2.The Friendly Mongoose  ..... 4
+3.The Shepher d’s Treasur e ..... 7
+4.Tansen  ..... 11
+5.The Monkey and the Crocodile  ..... 16
+6.The W onder Called Sleep  ..... 21
+7.A Pact with the Sun  ..... 24
+Rationalised 2023-24
+Constitution of India
+Fundamental Duties
+It shall be the duty of every citizen of India —
+(a)to abide by the Constitution and respect its ideals and institutions, the
+National Flag and the National Anthem;
+(b)to cherish and follow the noble ideals which inspired our national struggle
+for freedom;
+(c)to uphold and protect the sovereignty , unity and integrity of India;
+(d)to defend the country and render national service when called upon to
+do so;
+(e)to promote harmony and the spirit of common brotherhood amongst all
+the people of India transcending religious, linguistic and regional or
+sectional diversities; to renounce practices derogatory to the dignity of
+women;
+(f)to value and preserve the rich heritage of our composite culture;
+(g)to protect and improve the natural environment including forests, lakes,
+rivers, wildlife and to have compassion for living creatures;
+(h)to develop the scientific temper , humanism and the spirit of inquiry and
+reform;
+(i)to safeguard public property and to abjure violence;
+(j)to strive towards excellence in all spheres of individual and collective
+activity so that the nation constantly rises to higher levels of endeavour
+and achievement;
+*(k)who is a parent or guardian, to provide opportunities for education to
+his child or , as the case may be, ward between the age of six and
+fourteen years.
+Note:The Article 51A  containing Fundamental Duties was inserted by the Constitution
+(42nd Amendment) Act, 1976 (with ef fect from 3 January 1977).
+*(k) was inserted by the Constitution (86th Amendment) Act, 2002 (with ef fect from
+1 April 2010).Part IV A (Article 51 A)
+Rationalised 2023-24
+THERE once lived a bir d and her two new-bor n babies in a
+forest. They had a nest in a tall, shady tree and there the
+mother bird took care of her little ones day and night.
+One day, ther e was a big stor m. Ther e was thunder ,
+lightning and rain, and the wind blew down many trees. The
+tall tree in which the birds lived also came down. A big, heavy
+branch hit the nest and killed the bird. Fortunately for the
+baby birds, the strong wind blew them away to the other side
+of the forest. One of them came down near a cave where a
+gang of robbers lived. The other landed outside a rishi’s
+ashram a little distance away.•A mother bird and her two young ones lived in a forest.
+•The mother was killed in a stor m and the young bir ds wer e
+separated fr om each other .
+•Each found a dif ferent home.1 11111A Tale of Two
+Birds
+Rationalised 2023-24
+2/A Pact with the Sun
+Days passed and the baby birds became big birds. One
+day, the king of the country came to the for est to hunt. He
+saw a deer and rode after it. It ran deep into the for est
+followed by the king. Soon the king lost his way and didn’t
+know wher e he was.
+He rode on for a long time till he came to the other side of
+the for est. V ery tir ed by now, he got of f his horse and sat
+down under a tr ee that stood near a cave. Suddenly he hear d
+a voice cry out, “Quick! Hurry up! Ther e’s someone under the
+tree. Come and take his jewels and his horse. Hurry , or else
+he’ll slip away.” The king was amazed. He looked up and saw
+a big, br own bir d on the tr ee under which he was sitting. He
+also hear d faint noises issuing fr om the cave. He quickly got
+on to his horse and r ode away as fast as he could.
+Soon, he came to a clearing which looked like an ashram.
+It was the rishi’s  ashram. The king tied his horse to a tr ee
+and sat down in its shade. Suddenly he hear d a gentle voice
+announce, “W elcome to the ashram, Sir . Please go inside and
+rest. The rishi will be back soon. There’s some cold water in
+the pot. Please make yourself comfortable.” The king looked
+up and saw a big, brown bird in the tree. He was amazed.
+‘This one looks like the other bir d outside the cave,’ he said
+to himself loudly.
+“You ar e right, Sir ,” answer ed the bir d. “He is my br other
+but he has made friends with robbers. He now talks as they
+do. He doesn’t talk to me any more.” Just then the rishi entered
+the ashram.•The king was amazed to hear a similar voice again.
+•He came to know the bir ds’ true story.
+•He met the rishi who explained the behaviour of each bir d.
+Rationalised 2023-24
+“Welcome, Sir ,” he said
+to the king. “Please come
+inside and make yourself
+at home. Y ou look tir ed.
+Rest for a while. Then you
+can share my food.”
+The king told the rishi
+the story of the two birds
+and how each had behaved
+so differently though they
+looked so alike.  “The forest
+is full of surprises”, he said.
+The holy man smiled
+and said, “After all, one is known by the company one keeps.
+That bird has always heard the talk of robbers. He imitates
+them and talks about robbing people. This one has repeated
+what he has always heard. He welcomes people to the ashram.
+Now, come inside and rest. I’ll tell you more about this place
+and these birds.”
+Questions
+1.How did the two baby birds get separated?
+2.Where did each of them find a home?
+3.What did the first bird say to the stranger?
+4.What did the second bird say to him?
+5.How did the rishi explain the different ways in which
+the birds behaved?
+6.Which one of the following sums up the story best?
+(i)A bird in hand is worth two in the bush.
+(ii)One is known by the company one keeps.
+(iii) A friend in need is a friend indeed.A Tale of Two Birds/3
+Rationalised 2023-24
+4/A Pact with the Sun
+ONCE a far mer and his wife lived in a village with their small
+son. They loved him very much. “W e must have a pet,” the
+farmer said to his wife one day. “When our son grows up, he
+will need a companion. This pet will be our son’s companion.”
+His wife liked the idea.
+One evening, the far mer br ought with him a tiny
+mongoose. “It’s a baby mongoose,” said his wife, “but will
+soon be fully gr own.  He will be a friend to our son.”•A  far mer, his wife and their small child lived in a village.
+•There was also a baby mongoose in the house, who they believed
+would be their son’s companion and friend in futur e.
+•One day the far mer and his wife went out leaving the child alone
+with the mongoose.2The Friendly
+Mongoose
+Rationalised 2023-24
+Both the baby and the mongoose grew. In five or six
+months the mongoose had grown to its full size — a lovely
+animal with two shining black eyes and a bushy tail. The
+farmer’s son was still a baby in the cradle, sleeping and
+crying alter nately.
+One day, the far mer’s wife wanted to go to the market.  She
+fed the baby and rocked him to sleep in his little
+cradle.  Picking up the basket, she said to her husband, “I’m
+off to the bazar . The baby is sleeping. Keep an eye on him.
+Frankly, I don’t like to leave the child alone with the mongoose.”
+“You needn’t be afraid,” said the far mer.  “The mongoose
+is a friendly animal.  It’s  as sweet as our baby and they ar e
+the best of friends, you know.”
+The wife went away, and the far mer, having nothing to
+do in the house, decided to go out and take a look at his
+fields not far away. He ran into some friends on the way
+back and didn’t r eturn for quite some time.
+•The far mer’s wife r eturned home fr om the market carrying a
+heavy basket.
+•She found the mongoose at the entrance of the house with blood
+on his face and  paws.
+•She jumped to the conclusion that it was her son’s blood, and
+the mongoose was the guilty one.The Friendly Mongoose/5
+The far mer’s wife finished her shopping and came back
+home with a basketful of groceries.  She saw the mongoose
+sitting outside as if waiting for her . On seeing her he ran to
+welcome her , as was customary. The far mer’s wife took one
+look at the mongoose and screamed. “Blood!” she cried.  The
+face and paws of the mongoose were smeared with blood.
+“You wicked animal!  Y ou have killed my baby,” she
+screamed hysterically. She was blind with rage and with all
+her strength brought down the heavy basket full of groceries
+Rationalised 2023-24
+6/A Pact with the Sun
+Questions
+1.Why did the far mer bring a baby mongoose into the
+house?
+2.Why didn’t the far mer’s wife want to leave the baby alone
+with the mongoose?
+3.What was the far mer’s comment on his wife’s fears?
+4.Why did the far mer’s wife strike the mongoose with her
+basket?
+5.Did she r epent her hasty action?  How does she show
+her r epentance?
+Do you have a pet — a cat or a dog?  If not, would you like
+one?   How would you look after it?  Ar e you for or against
+keeping bir ds in a cage as pets?on the blood-smeared
+mongoose and ran inside
+to the child’s cradle.
+The baby was fast
+asleep. But on the floor
+lay a black snake tor n
+and bleeding. In a flash
+she realised what had
+happened. She ran out
+looking for the mongoose.
+“Oh!  Y ou saved my
+child! Y ou killed the snake! What have I done?” she cried
+touching the mongoose, who lay dead and still, unaware of
+her sobbing. The far mer’s wife,  who had acted hastily and
+rashly, stared long at the dead mongoose. Then she heard
+the baby crying.  Wiping her tears, she went in to feed him.
+(a story from The Panchatantra)
+Rationalised 2023-24
+IN a village in Iran there once lived a shepherd.  He was very
+poor.  He did not have even a small cottage of his own.  He
+had never been to school or lear nt to r ead and write, for
+there wer e very few schools in those days.
+Though poor and uneducated, this shepherd was very
+wise.  He understood people’s sorrows and troubles, and
+helped them face their
+problems with courage and
+common sense.  Many
+people came to him for
+advice. Soon he became
+famous for his wisdom and
+friendly nature. The king of
+that country heard about
+him, and thought of
+meeting him.
+Disguised as a shepherd
+and riding on a mule, one
+day the king came to
+the cave where the wise•A poor shepher d once lived in Iran.
+•Though uneducated, he was very wise and helpful.
+•The king decided to meet him in disguise.3The Shepherd’s
+Treasure
+Rationalised 2023-24
+8/A Pact with the Sun
+shepherd lived.  As soon as the shepherd saw the traveller coming
+towards the cave, he rose to welcome him.  He took the tired
+traveller inside the cave, gave him water to drink and a share of
+his own meagre meal.  The king rested for the night in the cave
+and was greatly impressed by the shepherd’s hospitality and
+wise conversation.
+Though still tired, the king decided to depart the next
+morning. He said, “Many thanks for your kindness to a poor
+traveller . I have a long way to go. Per mit me to leave.”
+Looking straight into the eyes of his guest, the shepher d
+replied, “Thank you, Y our Majesty, for paying me the
+compliment of a visit.”
+The king was astonished as well as pleased. ‘He is indeed
+very wise.’ he thought to himself. ‘I need people like him to
+work for me.’ And the king appointed this humble shepherd
+the gover nor of a small district.
+Although he r ose to power and dignity, the shepher d
+remained as humble as ever . People loved and honour ed
+him for his wisdom, sympathy and goodness. He was kind
+and just to one and all. His fame as a fair and wise gover nor
+soon spr ead thr oughout the country.
+Now the gover nors of other pr ovinces gr ew terribly jealous
+of him and began to talk to the king against him. They said,
+“He is very dishonest, and keeps for himself part of the money
+that he collects as tax fr om the people.” Why did he always
+carry with him, they added, an ir on chest? Per haps he carried
+in it the tr easur e that he had secr etly collected. After all,•The shepherd was able to make out that his visitor was none
+other than the king.
+•The king made the wise shepher d gover nor of a small district.
+•Other gover nors became jealous of the new gover nor and called
+him dishonest.
+Rationalised 2023-24
+they said mockingly, he was an ordinary shepherd and
+could behave no better .
+At first the king did not pay attention to these r eports,
+but how long could he ignor e these gover nors and their
+endless stories about the shepher d? One thing was certain,
+the king discover ed. The new gover nor did carry an ir on
+chest with him all the time.
+So, one day, the new gover nor was summoned to the
+palace. He came riding on his camel, and to everyone’s
+delight, the famous ir on chest was ther e fastened securely
+behind him on the camel’s back.
+Now the king was angry. He thunder ed, “Why do you
+always carry that ir on chest with you? What does it contain?”
+The gover nor smiled.
+He asked his servant to
+bring in the chest. How
+eagerly the people stan-
+ding ar ound waited for
+the shepher d to be found
+out! But how gr eat was
+their astonishment, and
+even of the king himself,
+when the chest was
+opened! No gold or silver
+or jewels but an old
+blanket was all that
+came out. Holding it up•The new gover nor was called to the palace.
+•He was ordered to explain why he always carried an iron chest.
+•The chest contained no gold or silver .The Shepherd’s Treasure/9
+Rationalised 2023-24
+10/A Pact with the Sun
+proudly, the shepher d said, “This, my dear master , is my
+only tr easur e.  I always carry it with me.”
+“But why do you carry such an ordinary blanket with you?
+Surely, you ar e the gover nor of a district?” the king asked.
+To which the shepher d replied with quiet dignity, “This
+blanket is my oldest friend.  It will still pr otect me if, at any
+time, Y our Majesty should wish to take away my new cloaks.”
+How pleased the king was, and how embarrassed the
+jealous gover nors became to hear the wise man’s r eply!  Now
+they knew that the shepher d was indeed the humblest and
+the wisest man in the land.  The king made him the gover nor
+of a much bigger district that very day.
+(an Iranian folktale)
+Questions
+1.The shepher d hadn’t been to school because
+(i)he was very poor .
+(ii)there wer e very few schools in those days.
+(iii)he wasn’t inter ested in studies.
+    Choose the right answer .
+2.Who visited the shepher d one day, and why?
+3.Why did the other gover nors gr ow jealous of the shepher d?
+4.Why was the new gover nor called to the palace?
+5.Why was everyone delighted to see the ir on chest on the
+camel’s back?
+6.(i)What did the ir on chest contain?
+(ii)Why did the shepher d always carry it?
+(iii)Is it an example of the shepher d’s humility or wisdom
+or both?
+7.How did the king r eward the new gover nor?
+Rationalised 2023-24
+YOU may have heard the name of Tansen — the greatest
+musician our country has pr oduced.
+A singer called Mukandan Misra and his wife lived in
+Behat near Gwalior . Tansen was their only child. It is said
+that he was a naughty child. Often, he ran away to play in
+the for est, and soon lear nt to imitate per fectly the calls of
+birds and animals.•Tansen was the only child of his parents.
+•Naughty but talented, he imitated the calls of birds and
+animals perfectly.
+•Once he tried to frighten a group of travellers by roaring
+like a tiger .
+Rationalised 2023-24
+12/A Pact with the Sun
+A famous singer named Swami Haridas was once travelling
+through the for est with his disciples. T ired,
+the group settled down to rest in a shady grove. Tansen
+saw them.
+‘Strangers in the forest! ’ he said to himself. ‘It will be fun to
+frighten them ’. He hid behind a tr ee and r oared like a tiger .
+The little gr oup of travellers scatter ed in fear but Swami
+Haridas called them together . “Don’t be afraid,” he said. “T igers
+are not always danger ous. Let us look for this one.”
+Suddenly, one of his men saw a small boy hiding behind
+a tree. “Ther e are no tigers her e, master ,” he said. “Only this
+naughty boy.”
+•Tansen lear nt music fr om Swami Haridas for eleven years.
+•He stayed with a holy man called Mohammad Ghaus.
+•He married Hussaini, one of the ladies in the court of
+Rani Mrignaini.
+Swami Haridas did not punish him. He went to Tansen’s
+father and said, “Y our son is very naughty. He is also very
+talented. I think I can make him a good singer .”
+Tansen was ten years old when he went away with Swami
+Haridas. He lived with him for eleven years, lear ning music,
+and became a gr eat singer . At about this time, his par ents
+died. Mukandan Misra’s dying wish was that T ansen should
+visit Mohammad Ghaus of Gwalior . Mohammad Ghaus was a
+holy man. Mukandan Misra had long been devoted to him,
+and often visited him. While living in Gwalior with Mohammed
+Ghaus, T ansen was often taken to the court of Rani Mrignaini,
+who was a gr eat musician herself. Ther e he met and married
+one of the ladies of the court. Her name was Hussaini.
+Hussaini also became Swami Haridas’s disciple. T ansen
+and Hussaini had five childr en who wer e all very musical.
+Rationalised 2023-24
+Tansen had, by this time, become very famous. Sometimes
+he sang befor e Emper or Akbar , who was so impr essed by
+him that he insisted Tansen should join his court.
+•Tansen became a favourite in Akbar’s court.
+•Once he was asked to sing Raga Deepak.
+•Tansen asked his daughter and her friend to sing Raga Megh
+after Raga Deepak to counteract the ef fect of the latter .
+Tansen went to Akbar’s court in 1556, and soon became
+a great favourite of the Emper or. Akbar would call upon
+Tansen to sing at any time during the day or night. Quite
+often he would just walk into T ansen’s house to hear him
+practise. He also gave him many pr esents. Some of the
+courtiers became jealous of T ansen. “W e shall never be able
+to rest till T ansen is ruined,” they declar ed. One of the
+courtiers, Shaukat Mian, had a bright idea.
+“Let us make him sing Raga Deepak”, he said.
+“How will that help us?” asked another man.
+“If Raga Deepak is pr operly sung, it makes the air so hot
+that the singer is bur nt to ashes. T ansen is a very good singer .
+If he sings Raga Deepak, he will die, and we will be rid of him.”
+Shaukat Mian went to Akbar and said, “W e don’t think
+Tansen is a gr eat singer . Let us test him. T ell him to sing
+Raga Deepak. Only the gr eatest singers can sing it pr operly.”
+“Of course he can sing it. T ansen can sing anything”.
+Akbar said. T ansen was afraid, but could not disobey the
+king. “V ery well, my lor d,” he said, “but give me time to
+prepare myself.” T ansen went home. He had never been mor e
+downcast and unhappy. “I can sing the Raga,” he told his
+wife, “but the heat it gives of f will not only set the lamps
+alight, it will also bur n me to ashes.”Tansen/13
+Rationalised 2023-24
+14/A Pact with the Sun
+Then he had an idea. “If someone sings Raga Megh at the
+same time, and sings it pr operly, it will bring rain. Per haps
+our daughter , Saraswati, and her friend, Rupvati, could do
+it,” he said.
+He taught the two girls to sing Raga Megh. They practised
+night and day for two weeks. T ansen told them, “Y ou must
+wait till the lamps start bur ning, and then you start singing. ”
+The legend goes that on the appointed day the whole town
+assembled to hear T ansen sing Raga Deepak. When he began
+to sing, the air became war m. Soon people in the audience
+were bathed in perspiration. The leaves on the tr ees dried
+up and fell to the gr ound. As the music continued, bir ds fell
+dead because of the heat and the water in the rivers began•Both Ragas wer e sung accor ding to plan.
+•Akbar punished Tansen’s enemies.
+•Tansen died in 1585.
+Rationalised 2023-24
+Questions
+1.Why did Swami Haridas say Tansen was ‘talented’?
+2.Why did Akbar ask Tansen to join his court?
+3.How do we know that Akbar was fond of Tansen?  Give
+two reasons.
+4.What did the other courtiers feel about Tansen?
+5.(i)What happens if Raga Deepak is sung properly?
+(ii)Why did T ansen’s enemies want him to sing the Raga?
+6.Why did T ansen agr ee to sing Raga Deepak?
+7.(i)What steps did he take to save himself?
+(ii)Did his plan work? How?
+Are you inter ested in music? Do you like classical music?
+Name a few distinguished Indian musicians.to boil. People cried out in terror as flames shot up out of
+nowher e and lighted the lamps.
+At once Saraswati and Rupvati began to sing Raga Megh.
+The sky clouded over and the rain came down. T ansen was
+saved. The story goes that he was very ill after this, and
+Akbar was sorry that he had caused him so much suf fering.
+He punished T ansen’s enemies. When T ansen got well, the
+entire city r ejoiced. T ansen r emained Akbar’s court singer
+till 1585 when he died. He composed several new ragas.
+Tansen’s tomb is in Gwalior . It is a place of pilgrimage for
+musicians.Tansen/15
+Rationalised 2023-24
+16/A Pact with the Sun
+ONCE, on the bank of a river , a monkey made a home for
+himself in a tree laden with fruit. He lived in it happily eating
+to his heart’s content the fruit of his choice.
+The monkey was happy but lonely and wanted a
+companion to talk to and shar e the fruits with.  But ther e
+was no one ar ound, not even another monkey, till one day a
+crocodile appeared on the riverside.
+“Hello, there,” said the monkey.  “Do you live in this river?
+Would you like to eat some fruit?”
+“Good mor ning,” r eplied the cr ocodile politely.  “I did come
+here in search of food for myself and my wife.  Nice of you to
+offer me fruit.”•A monkey lived in a fruit tr ee on the bank of a river .
+•He made friends with a crocodile, gave him delicious fruits to
+eat and sent some for his wife.
+•They met regularly and talked — the monkey in the tree and
+the crocodile on the ground.
+Rationalised 2023-24
+The monkey plucked some from the nearest branch and
+threw them down. The crocodile found them delicious.
+“Thanks,” he said. “May I have some on my next visit?”
+“Certainly, as many as you like and some for your wife
+too,” said the monkey. “Do come again. I’m rather lonely here”.
+The crocodile visited the monkey regularly and ate the
+fruits which his host threw down. He took some home for his
+wife. The monkey and the crocodile were now the best of
+friends. They talked and were never tired of talking. They
+talked about birds and animals, about the villages nearby
+and the difficulties villagers faced in raising good crops
+for lack of rain.
+One day, the crocodile stayed with the monkey longer than
+usual. His wife was annoyed waiting and waiting managing
+the little crocodiles that had just been hatched. She said,
+“Who is this friend of yours you are so fond of?”
+“Oh, he is a very nice monkey,” he replied. “He lives on a
+fruit-tr ee. He sends fruits for you everyday. Y ou don’t expect
+me to climb trees, do you?”
+“A nice monkey, I’m sure,” replied the wife with obvious
+sarcasm. “If you ask me, this monkey should be my food. I
+want to eat his heart so much.”
+“What a foolish thing to say!” shouted the crocodile. “I
+can’t kill a friend, though I won’t mind a monkey occasionally
+for a change of taste.”
+“You bring him her e,” ordered the wife. “I want to see him.”
+“So you can eat him. Never!” declared her husband.•The crocodile’s wife was annoyed because her husband came
+home late.
+•She didn’t like his friendship with the monkey.
+•The crocodile couldn’t altogether ignore his wife’s wishes.The Monkey and the Crocodile/17
+Rationalised 2023-24
+18/A Pact with the Sun
+His wife was furious and she dived in to hide herself at the
+bottom of the river leaving the little ones to pester their father .
+The crocodile was in a serious dilemma. He loved his wife
+and was very fond of his friend too.  Finally, he decided to be
+on the side of his wife.  She was his life-partner after all.  ‘I
+know it’s a sin to betray a friend, but I have no choice,’ he
+said to himself.  ‘I’ll invite the monkey home and hope
+for the best.’
+“My wife wants you over for a meal, dear friend,” said the
+crocodile when he visited the monkey next.  “Y ou must come
+home with me today.”
+“With pleasur e,” said the monkey.  “I’m no swimmer , but
+can ride on your back.”  And they set out.
+In the middle of the river , where the curr ent was the
+strongest, the cr ocodile could no longer hide his intention.
+“Sorry, my friend,” he said hesitatingly, “but I have to go
+under water now.  I’ve br ought you her e to kill you.  My wife
+cannot survive without eating your heart.  Good bye.”
+Rationalised 2023-24
+The monkey was scared and distressed. But he was sensible
+and clever like all monkeys. He kept a cool head. Calmly he
+said, “I’d do anything for you and your family. Y ou are my only
+friend. After all, what is a monkey’s heart compared with the life
+of a crocodile’s wife? But how foolish could you be? Why didn’t
+you tell me before? I’d have brought my heart along.”
+“But where is your heart?” asked the crocodile innocently.
+“I thought you carried it all the time.”
+“Of course not. It’s there on the tree. Let’s swim back at
+once and get it. Y our wife must be waiting,” r eplied the monkey
+gaining confidence.
+“Oh dear! What a mistake!” hissed the crocodile. They laughed
+loudly as the cr ocodile took a full tur n to reach the tr ee.
+•The monkey was thunderstruck.  He knew his life was in danger .
+•He kept his cool and persuaded the crocodile on a pretext to
+swim back to the tree.
+•He decided then to discontinue his friendship with the crocodile.The Monkey and the Crocodile/19
+Rationalised 2023-24
+20/A Pact with the Sun
+Questions
+1.The monkey was happy living in the fruit tree, but his
+happiness was not complete. What did he miss?
+2.What did the two friends generally talk about?
+3.Why was the crocodile’s wife annoyed with her husband
+one day?
+4.Why was the crocodile unwilling to invite his friend
+home?
+5.What did the crocodile tell the monkey midstream?
+6.How did the monkey save himself?
+7.What does the last sentence of the story suggest? What
+would the crocodile tell his wife?
+On the river-bank, the monkey
+jumped on to the tree and heaved a
+deep sigh of relief. He plucked a fruit
+or two from the nearest branch and
+throwing them down said, “Let your
+wife have some fruit rather than my
+heart. Fresh fruits are good for mind
+and body. Good bye, friend, and if you
+don’t mind, we won’t meet again.”
+The cr ocodile, sadder and wiser , shed
+a few tears which were genuine and
+turned back to go home. He was in a
+hurry to tell his wife a thing or two.
+(a story from The Panchatantra)
+Rationalised 2023-24
+WE know enough about what sleep is, though we don’t know
+what exactly causes sleep. Sleep is a state of rest — an
+unconscious rest. When we sleep, our body recovers from
+fatigue caused by the day’s activities. After a good sleep and
+the rest that it gives, we
+become alert and active
+again, r eady for the nor mal
+activities of the day.
+When we wake up in
+the mor ning, it is not
+always possible for us to
+remember what hap-
+pened when we were
+asleep. W e may r emember
+a dream but the rest of
+our sleep was a kind of
+darkness in which
+nothing seems to have
+taken place.•Our body and brain recover from fatigue after a good sleep.
+•We dream while sleeping, but we do not always r emember
+our dreams.
+•During sleep, our heartbeat becomes slower and our temperature
+and blood pressure go down.
+Rationalised 2023-24
+22/A Pact with the Sun
+Several things happen to our body while we are sleeping.
+As we sink deeper into sleep, our muscles relax more and
+more. Our heartbeat becomes slower . Our temperatur e and
+blood pr essur e go down. The ever -active brain also slows
+down so that we can’t think or act consciously. But we dream.
+When we wake up, our temperature and blood pressure
+rise to nor mal. Our heartbeat and br eathing also become
+normal and we ar e fully awake, and have for gotten most, if
+not all, the dr eams that we had while sleeping.
+What is a dream? It is an activity of the mind that takes
+place when we are asleep. Some dreams are probable
+while others are not. That only means that many of the
+things that happen in dreams could happen when we are
+awake. Others could not.  Dreams seem to be important
+for several reasons. One is that a dream can help us to
+sleep through noise or other disturbances. For example,
+the alar m clock rings, but our mind causes us to dr eam
+that the telephone or doorbell is ringing, and that we are
+awake and answering it.
+Certain doctors have found that one’s dreams often reveal a
+great deal about one’s problems and that, if understood correctly,
+they can provide a key to the solution of those problems. But
+we must remember one thing. Dreams cannot be used as a way
+to tell the future. They simply can never tell the future.
+Sleep is the most common experience, but how many of
+us really think about the wonder and power of sleep? Many•A dream is an activity of the mind when we are asleep.
+•Dreams help us sleep through noise and other disturbances.
+•Dreams may reveal something about one’s problems, but they
+cannot tell the future.
+Rationalised 2023-24
+Questions
+1.What is the most obvious advantage of sleep?
+2.What happens to our body when we sleep?
+3.Define a dream in your own words.
+4.Why are dreams important? Mention two reasons.
+5.Why has sleep been called a wonder?
+6.Describe briefly to the class an improbable dream you
+have ever had.
+Grandmothers and mothers sing nice little songs while
+rocking little ones to sleep.  Such a song is called a ‘lullaby’.
+Do you remember a lullaby in your own language?  Tell the
+class in English what the lullaby says.poets have written beautiful poems about sleep.  Here is one
+in which the poet is describing the experience of falling asleep.
+Read it aloud.
+I have come to the bor ders of sleep,
+The unfathomable deep
+Forest wher e all must lose
+Their way, however straight,
+Or winding, soon or late;
+They cannot choose.
+There is not any book
+Or face of dear est look
+That I would not tur n from now
+To go into the unknown
+I must enter and leave alone
+I know not how.
+EDWARD THOMASThe Wonder  Called Sleep/23
+Lights Out
+Rationalised 2023-24
+24/A Pact with the Sun
+SAEEDA ’S mother had been ailing for a long time —fever, cough,
+body-ache, painful joints and what not. T reated by a variety
+of physicians for weeks, she often showed signs of
+improvement but soon r elapsed into her old, sick self, one
+complaint substituted by another . Though weak and
+colourless, she was forbidden nor mal food and was under
+strict or ders to r emain perpetually confined to her small,
+dingy r oom with doors and windows fastened, deprived of
+sunshine and fr esh air .
+•Saeeda’s mother has not received proper medical treatment
+for her complaints.
+•She is denied healthy food, sunshine and fr esh air .
+•At last, she consults a good physician who gives her effective
+medicine and sound advice.
+Rationalised 2023-24
+When she became critical, her relatives and neighbours
+persuaded her to consult a specialist even though his fee
+was likely to be high. Life is more precious than money, they
+said. Saeeda’s mother was poor but she heeded their advice
+and sold a few trinkets to pay the doctor’s fee and the
+cost of medicine.
+The doctor came in a few days and examined her and
+prescribed effective but costly medicine. To the question as
+to what she should eat he said, “Anything you wish to eat —
+chapati, vegetables, milk, fruits, etc. In addition to all this,”
+he added emphatically, “leave this dark hovel and occupy a
+bigger room with doors and windows open. Sit in the sun
+every mor ning fr om eight to nine. Sunshine and fr esh air ,” he
+concluded, “are more important than medicine.”
+The doctor and his advice became a subject of noisy
+commentary among all present. Some favoured while others
+opposed it. Exposure to sun and air for someone afflicted with
+chronic cough was dangerous, an experienced lady declared. A
+younger neighbour nearly quarrelled with her over this. Too
+exhausted to participate in the debate, Saeeda’s mother
+remained quiet but deter mined to follow the doctor’s advice.
+“Forget the consequences,” she said at last. “I’ll carry out his
+instructions to the letter . Move my bed into the next r oom and
+let me sit in the sun on my charpoy for an hour daily .”
+It so happened that the sky remained overcast next
+morning. The same was the case the following day. Saeeda’s•The sky remains overcast with clouds for a few days.
+•Saeeda makes a special request to the sunrays to help her
+mother get well.
+•The sunrays keep their word, come down in large numbers
+and give new life to Saeeda’s mother .A Pact with the Sun/25
+Rationalised 2023-24
+26/A Pact with the Sun
+mother was dejected. She muttered, “O Lord of mine, why
+have you ordered the sun to remain hidden? How will I
+ever be cured?”
+Saeeda was playing with her doll nearby and she heard
+her mother’s lament but kept calm. Later in the after noon,
+when she stumbled on a spot of pale sunshine in the
+courtyard, she ran to her mother to say the sun was there.
+“No, no”, said everybody pr esent. “It’s too late and chilly. Y our
+mother can’t sit out ther e.” Disheartened, Saeeda r eturned
+to her doll. There was no sun really except for its last remnant
+entangled in the top branches of the family mango tree.
+Now, children have at their command a secret language,
+foreign to gr own-ups altogether , in which they fluently
+communicate with trees, flowers, animals, the sun and the
+moon, perhaps even with the Almighty. Using that special
+language, Saeeda addressed her remark to the last departing
+ray of the sun. “Dear est sister , do come tomorr ow with lots of
+warmth and brightness. Y ou see, my mother is ill and needs
+your help.”
+“Surely,” answered the light,
+“don’t look unhappy. W e’ll be her e
+at the fixed hour .”
+Next day, early in the mor ning,
+when the sprightly sunrays
+embellished themselves for their
+journey down to earth, the sun said,
+“It’s our day of f again. W e’re staying
+up here. The road to earth is
+blocked by an ar my of thick, mucky
+clouds.” The little rays so much
+wanted to go down for a lark but
+they remained quiet. One of them,
+though, who had made a pact with
+Rationalised 2023-24
+A Pact with the Sun/27
+little Saeeda said, “Sir , I can’t stay back. I’ve given my wor d
+to Saeeda whose mother is ill and needs our help. I’ll pierce
+through the clouds to reach Saeeda’s courtyard. How else
+will her mother be cured?” Hearing this, all the rays nearly
+staged a r evolt against their father , the sun. “Fancy staying
+back again,” they said in a single voice. “What will the people
+of the earth say about us? That we of the heavens have
+turned liars?”
+The sun relented. “Please yourselves,” he said. “Mind your
+clothes, though. The clouds are mucky.”
+“Never mind our clothes. W e can always change. But go
+we must.” And the rays rushed towards the earth. The clouds
+stood guard between them and Saeeda’s courtyard. The little
+rays focussed their heat — and they had enough of it — on a
+battalion of clouds, which had to flee from its post. The rays
+got through, shooting past the bewildered clouds. They were
+already late.
+Rationalised 2023-24
+28/A Pact with the Sun
+Saeeda saw the whole host of them approaching and her
+heart leapt with joy. She shouted, “ Amma , Amma ! The sun is
+here. Come out.” The old lady’s eyes welled up with tears of
+gratitude. Her c harpoy  was placed in the courtyard and she sat
+on it for an hour reclining against bolsters. It had been months
+since she had felt the sun on her hands and face and breathed
+in fresh air . She thought she was in a new world. Though pale,
+her face glowed and her eyes shone bright. She saw her child
+too bathed in sunlight and kissed her . The mor ning air br ought
+in a new fragrance from nearby flowers. The birds chanted a
+new tune. Saeeda’s mother felt better already.
+She is fully recovered now, but she still follows the doctor’s
+advice — an hour of sunlight and lungfuls of fresh air every day.
+ZAKIR HUSAIN
+[translated from the Urdu and
+slightly modified]
+Questions
+1.What did the physicians ask Saeeda’s mother to do to
+get well? Did their advice help her? If not, why?
+2.What did the specialist prescribe in addition to
+medicine?
+3.What did Saeeda tell the sunrays to do?
+4.Why were the sunrays keen to go down to the earth the
+next day?
+/circle6What is your own formula for keeping good health?
+/circle6Who would you recommend to a patient in your
+neighbourhood — the physicians contacted first or the
+specialist contacted next?  Give reasons for your choice.
+/circle6When would you make a pact with the sun?  When you
+are going on a picnic, or when you are playing a cricket
+match?  Think of other occasions.
+Rationalised 2023-24
