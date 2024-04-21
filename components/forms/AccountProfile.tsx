@@ -29,7 +29,7 @@ interface Props {
   user: {
     id: string;
     objectId: string;
-    username: string;
+    username: any;
     name: string;
     bio: string;
     image: string;
